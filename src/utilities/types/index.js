@@ -1,2 +1,0 @@
-
-exports.assert = x => x;

@@ -1,1 +1,0 @@
-export {default as ManageProgram} from "./ManageProgram.vue"
